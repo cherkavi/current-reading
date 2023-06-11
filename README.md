@@ -4,6 +4,7 @@
 - [aws skills <br>builder](https://explore.skillbuilder.aws/)
 - [modern css](https://www.bitdegree.org/courses)
 - [system design](https://www.freecodecamp.org/news/software-system-design-for-beginners/amp/)
+- [dbt](https://github.com/cherkavi/cheat-sheet/blob/master/dbt.md)
 
 ### current <br> readings
 #### tools
@@ -14,9 +15,6 @@
 - [private GPTChat](https://bdtechtalks.com/2023/06/01/create-privategpt-local-llm/amp/)
 - [list of AI tools](https://www.aitoolsclub.com/)
 - [k8s with chatgpt](https://thenewstack.io/overcoming-the-kubernetes-skills-gap-with-chatgpt-assistance/)
-
-#### bigdata
-- [migration tool](https://dev.to/grayhat/transform-your-data-like-a-pro-with-dbt-data-build-tool-39kd)
 
 #### ui
 - [react folders structure](https://dev.to/fpaghar/folder-structuring-techniques-for-beginner-to-advanced-react-projects-30d7)
