@@ -1,10 +1,12 @@
 ### <b>current <br> education</b> 
-- [udacity](https://learn.udacity.com/my-programs?tab=Currently%2520Learning)
-- [chatGPT prompt](https://learn.deeplearning.ai/)
-- [aws skills <br>builder](https://explore.skillbuilder.aws/)
-- [modern css](https://www.bitdegree.org/courses)
-- [system design](https://www.freecodecamp.org/news/software-system-design-for-beginners/amp/)
-- [dbt](https://github.com/cherkavi/cheat-sheet/blob/master/dbt.md)
+* [udacity](https://learn.udacity.com/my-programs?tab=Currently%2520Learning)
+* [bigdegree](https://www.bitdegree.org/courses/user/dashboard)
+  * [modern css](https://www.bitdegree.org/courses)
+* [udacity](https://www.udemy.com/home/my-courses/learning/)
+* [aws skills <br>builder](https://explore.skillbuilder.aws/)
+* [chatGPT prompt](https://learn.deeplearning.ai/)
+* [system design](https://www.freecodecamp.org/news/software-system-design-for-beginners/amp/)
+* [dbt](https://github.com/cherkavi/cheat-sheet/blob/master/dbt.md)
 
 ### current <br> readings
 #### tools
