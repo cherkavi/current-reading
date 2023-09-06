@@ -8,6 +8,7 @@
 * [chatGPT prompt](https://learn.deeplearning.ai/)
 * [system design](https://www.freecodecamp.org/news/software-system-design-for-beginners/amp/)
 * [dbt](https://github.com/cherkavi/cheat-sheet/blob/master/dbt.md)
+* [cisco networking certifications](https://developer.cisco.com/learning/mylearning/)
 
 ### current <br> readings
 #### tools
