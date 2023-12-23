@@ -61,9 +61,19 @@
 - [Hacker news](https://thehackernews.com/?m=1)
 - [security](https://habrahabr.ru/company/ruvds/blog/329962/)
 
+### economics
+- [Мизес человеческая деятельность](https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+- [Бизнес – это глаголы и существительные, которые заканчиваются цифрами](https://www.litres.ru/book/dmitriy-potapenko/biznes-eto-glagoly-i-suschestvitelnye-kotorye-zakanchiva-26714897/chitat-onlayn/)
+- Жан-Жак Ламбен. Стратегический маркетинг. Европейская перспектива
+
+### management
+- [Кодекс Бусидо. Хагакурэ. Сокрытое в листве (2004)](https://platona.net/load/knigi_po_filosofii/istorija_vostochnaja/kodeks_busido_khagakureh_sokrytoe_v_listve_2004/14-1-0-1029) 
+- [О войне](https://www.litres.ru/book/karl-fon-klauzevic/o-voyne-51357943/chitat-onlayn/)
+- Art of war
+
 ### other
 - [how to influence on people, trainings](https://www.litres.ru/book/elena-sidorenko/trening-vliyaniya-i-protivostoyaniya-vliyaniu-3-e-izdanie-27628593/?lfrom=687676223&utm_campaign=litres&utm_medium=referral&utm_source=aldebaran)
 - [experience](http://razbor-poletov.com/)
-- [be more productive](https://dev.to/code_jedi/20-easy-ways-to-be-more-productive-as-a-developer-5f99)
+- [be more productive](https://dev.to/code_jedi/18-easy-ways-to-be-more-productive-as-a-developer-5f99)
 - [Rosenberg: Gewalt frei Kommunikation]()
 - [Collections of Psychologies books excertps](https://sinref.ru/000_uchebniki/04500psihologia/000_lekcii_psihologia_11/000.htm)
