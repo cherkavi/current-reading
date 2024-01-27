@@ -34,11 +34,12 @@
 - [java framework tool](https://habrahabr.ru/company/luxoft/blog/280784/)
 
 ### architecture
+- [Software Architecture in Practice 2Th Edition](https://people.ece.ubc.ca/matei/EECE417/BASS/index.html)
 - [Gregor Hohpe: architect elevator](https://architectelevator.com/)
-- [uml](https://sourcemaking.com/uml)
 - [microservice](http://microprofile.io/presentations)
 - [microservice vs monolith](http://eax.me/microservices-vs-monolithic/)
 - [software documentation <br> in practice](https://arc42.org/examples)
+- [uml](https://sourcemaking.com/uml)
 
 ### machine learning
 - [how to build first ML in Python](https://towardsdatascience.com/how-to-easily-build-your-first-machine-learning-web-app-in-python-c3d6c0f0a01c)
