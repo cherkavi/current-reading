@@ -48,6 +48,7 @@
 - [serverless cron job in aws](https://medium.com/game-tech-tutorial/how-to-create-a-serverless-cron-job-in-aws-batch-beb2d4077d8e)
 
 ### big data 
+- [data mesh](https://www.amazon.de/-/en/Jean-Georges-Perrin-ebook/dp/B0C4BXMD8K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1706338904&sr=8-1)
 - [podcasts about bigdata](https://mattturck.com/)
 - [streamsets DataOps platform](https://hub.docker.com/r/streamsets/datacollector/)
 - [big data questions](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
@@ -92,3 +93,5 @@
 - [be more productive](https://dev.to/code_jedi/18-easy-ways-to-be-more-productive-as-a-developer-5f99)
 - [Rosenberg: Gewalt frei Kommunikation]()
 - [Collections of Psychologies books excertps](https://sinref.ru/000_uchebniki/04500psihologia/000_lekcii_psihologia_11/000.htm)
+- Rhetorik. Redetraining für jeden Anlass, Vera F. Birkenbihl
+- 10 шагов к отличным оценкам ( за меньшее время ). Томас Франк
