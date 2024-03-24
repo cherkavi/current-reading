@@ -35,11 +35,12 @@
 - [java framework tool](https://habrahabr.ru/company/luxoft/blog/280784/)
 
 ### architecture
+- [Software Architecture in Practice 2Th Edition](https://people.ece.ubc.ca/matei/EECE417/BASS/index.html)
 - [Gregor Hohpe: architect elevator](https://architectelevator.com/)
-- [uml](https://sourcemaking.com/uml)
 - [microservice](http://microprofile.io/presentations)
 - [microservice vs monolith](http://eax.me/microservices-vs-monolithic/)
 - [software documentation <br> in practice](https://arc42.org/examples)
+- [uml](https://sourcemaking.com/uml)
 
 ### machine learning
 - [how to build first ML in Python](https://towardsdatascience.com/how-to-easily-build-your-first-machine-learning-web-app-in-python-c3d6c0f0a01c)
@@ -48,6 +49,7 @@
 - [serverless cron job in aws](https://medium.com/game-tech-tutorial/how-to-create-a-serverless-cron-job-in-aws-batch-beb2d4077d8e)
 
 ### big data 
+- [data mesh](https://www.amazon.de/-/en/Jean-Georges-Perrin-ebook/dp/B0C4BXMD8K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1706338904&sr=8-1)
 - [podcasts about bigdata](https://mattturck.com/)
 - [streamsets DataOps platform](https://hub.docker.com/r/streamsets/datacollector/)
 - [big data questions](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
@@ -93,3 +95,5 @@
 - [Rosenberg: Gewalt frei Kommunikation]()
 - [Collections of Psychologies books excertps](https://sinref.ru/000_uchebniki/04500psihologia/000_lekcii_psihologia_11/000.htm)
 - Thanks God is't monday
+- Rhetorik. Redetraining für jeden Anlass, Vera F. Birkenbihl
+- 10 шагов к отличным оценкам ( за меньшее время ). Томас Франк
