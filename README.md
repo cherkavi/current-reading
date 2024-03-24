@@ -9,6 +9,7 @@
 * [system design](https://www.freecodecamp.org/news/software-system-design-for-beginners/amp/)
 * [dbt](https://github.com/cherkavi/cheat-sheet/blob/master/dbt.md)
 * [cisco networking certifications](https://developer.cisco.com/learning/mylearning/)
+* [list of free certifications](https://github.com/cloudcommunity/Free-Certifications)
 
 ### current <br> readings
 #### tools
@@ -91,3 +92,4 @@
 - [be more productive](https://dev.to/code_jedi/18-easy-ways-to-be-more-productive-as-a-developer-5f99)
 - [Rosenberg: Gewalt frei Kommunikation]()
 - [Collections of Psychologies books excertps](https://sinref.ru/000_uchebniki/04500psihologia/000_lekcii_psihologia_11/000.htm)
+- Thanks God is't monday
