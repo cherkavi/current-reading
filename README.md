@@ -41,6 +41,10 @@
 - [microservice vs monolith](http://eax.me/microservices-vs-monolithic/)
 - [software documentation <br> in practice](https://arc42.org/examples)
 - [uml](https://sourcemaking.com/uml)
+take a look in the list:
+* Effective Software Architectures: A Practical Guide by Gernot Starke
+* Learning Domain-Driven Design
+* Software Architecture Pragmatically: Transitioning from Software to Enterprise Architecture by Philipp Friberg
 
 ### machine learning
 - [how to build first ML in Python](https://towardsdatascience.com/how-to-easily-build-your-first-machine-learning-web-app-in-python-c3d6c0f0a01c)
