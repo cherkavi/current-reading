@@ -36,6 +36,11 @@
 - [java framework tool](https://habrahabr.ru/company/luxoft/blog/280784/)
 
 ### architecture
+- archimate
+  * Mastering ArchiMate Edition III
+  * [archimate 101](https://archimate-community.pages.opengroup.org/workgroups/archimate-101/)
+  * [archimate patterns](https://archimate-community.org/#!patterns.md)
+  * 
 - [Software Architecture in Practice 2Th Edition](https://people.ece.ubc.ca/matei/EECE417/BASS/index.html)
 - [Gregor Hohpe: architect elevator](https://architectelevator.com/)
 - [microservice](http://microprofile.io/presentations)
