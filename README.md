@@ -1,4 +1,4 @@
-### <b>current <br> education</b> 
+# <b>current <br> education</b> 
 * [udacity](https://learn.udacity.com/my-programs?tab=Currently%2520Learning)
   * [network](https://learn.udacity.com/courses/ud256) and [network notes](https://github.com/cherkavi/cheat-sheet/blob/master/network.md)
 * [bigdegree](https://www.bitdegree.org/courses/user/dashboard)
@@ -12,30 +12,8 @@
 * [cisco networking certifications](https://developer.cisco.com/learning/mylearning/)
 * [list of free certifications](https://github.com/cloudcommunity/Free-Certifications)
 
-### current <br> readings
-#### tools
-- [appmap, diagrams](https://appmap.io/docs/your-first-15-minutes-with-appmap/what-is-appmap.html)
-
-#### ai 
-- [infrapilot](https://klo.dev/announcing-infracopilot/)
-- [private GPTChat](https://bdtechtalks.com/2023/06/01/create-privategpt-local-llm/amp/)
-- [list of AI tools](https://www.aitoolsclub.com/)
-- [k8s with chatgpt](https://thenewstack.io/overcoming-the-kubernetes-skills-gap-with-chatgpt-assistance/)
-
-#### ui
-- [react folders structure](https://dev.to/fpaghar/folder-structuring-techniques-for-beginner-to-advanced-react-projects-30d7)
-
-### bash scripts
-- [bash scripts](https://egghead.io/lessons/bash-course-overview-advanced-bash-automation-for-web-developers)
-
-### git
-- [git rebase](https://opensource.com/article/22/4/manage-git-commits-rebase-i-command)
-- [git worktree](https://opensource.com/article/21/4/git-worktree)
-
-### java 
-- [java framework tool](https://habrahabr.ru/company/luxoft/blog/280784/)
-
-### architecture
+# current readings
+## architecture
 - archimate
   * Mastering ArchiMate Edition III
   * [archimate 101](https://archimate-community.pages.opengroup.org/workgroups/archimate-101/)
@@ -52,13 +30,35 @@ take a look in the list:
 * Learning Domain-Driven Design
 * Software Architecture Pragmatically: Transitioning from Software to Enterprise Architecture by Philipp Friberg
 
-### machine learning
+## tools
+- [appmap, diagrams](https://appmap.io/docs/your-first-15-minutes-with-appmap/what-is-appmap.html)
+
+## ai 
+- [infrapilot](https://klo.dev/announcing-infracopilot/)
+- [private GPTChat](https://bdtechtalks.com/2023/06/01/create-privategpt-local-llm/amp/)
+- [list of AI tools](https://www.aitoolsclub.com/)
+- [k8s with chatgpt](https://thenewstack.io/overcoming-the-kubernetes-skills-gap-with-chatgpt-assistance/)
+
+## ui
+- [react folders structure](https://dev.to/fpaghar/folder-structuring-techniques-for-beginner-to-advanced-react-projects-30d7)
+
+## bash scripts
+- [bash scripts](https://egghead.io/lessons/bash-course-overview-advanced-bash-automation-for-web-developers)
+
+## git
+- [git rebase](https://opensource.com/article/22/4/manage-git-commits-rebase-i-command)
+- [git worktree](https://opensource.com/article/21/4/git-worktree)
+
+## java 
+- [java framework tool](https://habrahabr.ru/company/luxoft/blog/280784/)
+
+## machine learning
 - [how to build first ML in Python](https://towardsdatascience.com/how-to-easily-build-your-first-machine-learning-web-app-in-python-c3d6c0f0a01c)
 
-### cloud
+## cloud
 - [serverless cron job in aws](https://medium.com/game-tech-tutorial/how-to-create-a-serverless-cron-job-in-aws-batch-beb2d4077d8e)
 
-### big data 
+## big data 
 - [data mesh](https://www.amazon.de/-/en/Jean-Georges-Perrin-ebook/dp/B0C4BXMD8K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1706338904&sr=8-1)
 - [podcasts about bigdata](https://mattturck.com/)
 - [streamsets DataOps platform](https://hub.docker.com/r/streamsets/datacollector/)
@@ -68,7 +68,7 @@ take a look in the list:
 - [sandbox](https://hortonworks.com/downloads/#sandbox)
 - [pulsar or kafka](https://itnext.io/pulsar-or-kafka-and-the-lessons-from-doing-our-own-testing-a0180dfc4582)
 
-### security
+## security
 - [security engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 - [security affairs](https://securityaffairs.co/wordpress/category/data-breach)
 - [Hacker news](https://thehackernews.com/?m=1)
@@ -88,19 +88,19 @@ take a look in the list:
 - [Hacking APIs: Breaking Web Application Programming Interfaces](https://www.amazon.de/dp/1718502443?tag=hackr03c-21&geniuslink=true)
 - [Hacking Connected Cars: Tactics, Techniques, and Procedures](https://www.amazon.de/dp/1119491800?tag=hackr03c-21&geniuslink=true)
 
-### economics
+## economics
 - [Мизес человеческая деятельность](https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
 - [Бизнес – это глаголы и существительные, которые заканчиваются цифрами](https://www.litres.ru/book/dmitriy-potapenko/biznes-eto-glagoly-i-suschestvitelnye-kotorye-zakanchiva-26714897/chitat-onlayn/)
 - Жан-Жак Ламбен. Стратегический маркетинг. Европейская перспектива
 
-### management
+## management
 - [Кодекс Бусидо. Хагакурэ. Сокрытое в листве (2004)](https://platona.net/load/knigi_po_filosofii/istorija_vostochnaja/kodeks_busido_khagakureh_sokrytoe_v_listve_2004/14-1-0-1029) 
 - [О войне](https://www.litres.ru/book/karl-fon-klauzevic/o-voyne-51357943/chitat-onlayn/)
 - Art of war
 - [семь инструментов контроля качества](https://dzen.ru/a/ZaQAos7VpGMZqodh)
   [7 инструментов контроля качества](https://studopedia.ru/2_121277_sem-instrumentov-kontrolya-kachestva.html)
 
-### other
+## other
 - [how to influence on people, trainings](https://www.litres.ru/book/elena-sidorenko/trening-vliyaniya-i-protivostoyaniya-vliyaniu-3-e-izdanie-27628593/?lfrom=687676223&utm_campaign=litres&utm_medium=referral&utm_source=aldebaran)
 - [experience](http://razbor-poletov.com/)
 - [be more productive](https://dev.to/code_jedi/18-easy-ways-to-be-more-productive-as-a-developer-5f99)
