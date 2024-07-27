@@ -1,0 +1,16 @@
+# soft skills
+- [how to influence on people, trainings](https://www.litres.ru/book/elena-sidorenko/trening-vliyaniya-i-protivostoyaniya-vliyaniu-3-e-izdanie-27628593/?lfrom=687676223&utm_campaign=litres&utm_medium=referral&utm_source=aldebaran)
+- [experience](http://razbor-poletov.com/)
+- [be more productive](https://dev.to/code_jedi/18-easy-ways-to-be-more-productive-as-a-developer-5f99)
+- [Rosenberg: Gewalt frei Kommunikation]()
+- [Collections of Psychologies books excertps](https://sinref.ru/000_uchebniki/04500psihologia/000_lekcii_psihologia_11/000.htm)
+- Thanks God is't monday
+- Rhetorik. Redetraining für jeden Anlass, Vera F. Birkenbihl
+- 10 шагов к отличным оценкам ( за меньшее время ). Томас Франк
+- Бодо Шефер «Закони переможців»
+- Генрі Форд «Моє життя, мої досягнення»
+- Роберт Чалдіні «Психологія впливу»
+- Карстен Бредемайєр «Чорна риторика. Влада та магія слова»
+- Лінн А. Робінсон «Довіряй своїй інтуїції. Як розвинути професійне чуття у бізнесі»
+- Рон Рубін, Стюарт Евері Гоулз «Бізнес у стилі дзен»
+- Стівен Кові «7 навичок високоефективних людей»
